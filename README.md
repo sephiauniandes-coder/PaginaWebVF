@@ -92,7 +92,7 @@ El sistema tiene tres audiencias distintas:
 
 ---
 
-## 5. Ideas adicionales (no pedidas explícitamente, pero valen la pena)
+## 5. Ideas adicionales 
 
 - Formulario de "Únete al equipo" / voluntariado, para captar nuevos integrantes.
 - Sección de aliados, patrocinadores o reconocimientos.
