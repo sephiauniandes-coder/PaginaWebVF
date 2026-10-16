@@ -14,6 +14,11 @@ python3 -m http.server 8000
 
 Las notas `◻` dentro de la página (anotaciones de entrega) describen componentes, props y endpoints. Se ocultan con la prop `showAnnotations=false`.
 
+## Vista previa en línea
+
+https://mncons.github.io/sephia-landing-preview/ — copia pública **no oficial** (noindex, sin analítica) para revisión del equipo.
+Actualizarla tras un cambio: `scripts/publicar-preview.sh "mensaje"`.
+
 ## Estructura
 
 ```
