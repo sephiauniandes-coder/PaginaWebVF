@@ -1,0 +1,14 @@
+# Material fuente que NO va al repo
+*.pdf
+*.zip
+*.docx
+chat.*
+WhatsApp*
+.image-slots.state.json
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
