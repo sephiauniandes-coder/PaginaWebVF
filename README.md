@@ -4,6 +4,8 @@ Prototipo del frontend de **SEPHIA — Semillero en Producción Hidropónica Int
 
 > Estado: **prototipo de diseño** (HTML de Claude Design). Es la referencia visual y de contenido para implementar el front definitivo; todavía no consume la API real.
 
+Requerimientos del proyecto (RF / RNF): [`docs/requerimientos.md`](docs/requerimientos.md).
+
 ## Ver el prototipo
 
 ```bash
